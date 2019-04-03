@@ -1,3 +1,8 @@
+# Azure Migration Guidance 
+
+This repo is created to provide guidance to Azure customers to migrat their resources from one Azure region to another. 
+
+If you have any feedback or would like to guidance about additional services, please file an issue in this repo. 
 
 # Contributing
 
